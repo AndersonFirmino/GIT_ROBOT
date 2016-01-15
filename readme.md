@@ -5,9 +5,9 @@ Como usar:
 
 1 - Tenha o Python 2.7.11 na maquina e tenha a variavel ambiente configurada.
 
-2 - coloque o arquivo git_robot.bat no C:\Windows
+2 - coloque o arquivo git_robot.bat da pasta bat no C:\Windows
 
-3 - e a pasta git_robot deixe no C:\
+3 - coloque a pasta git_robot no C:\
 
 4 - abra o arquivo git_conf.py e configure a branch e seu remote do git
 
@@ -26,4 +26,3 @@ git_robot -c
 git_robot -nc 
  - inicializa, da commit e push (util para novo projeto)
 
- 
