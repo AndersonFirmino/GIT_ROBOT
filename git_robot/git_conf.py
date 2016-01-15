@@ -15,5 +15,5 @@ ORIGIN = "master"
 # Define aqui o respositorio 
 # que se esta trabalhando
 #==============================#
-REPOSITORY = "https://AndersonFirmino@bitbucket.org/AndersonFirmino/peruzzo_forum.git"
+REPOSITORY = "https://AndersonFirmino@bitbucket.org/nome_do_projeto/git_do_projeto.git"
 #==============================#
